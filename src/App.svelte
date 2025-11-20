@@ -642,7 +642,7 @@
 
 <main>
     <div class="container">
-        <h1>Flash Cards Grieks</h1>
+        <h1>Καλή τύχη αγάπη μου</h1>
 
         <div class="score-container">
             <p>Points: {points} (Attempted: {attempted})</p>
